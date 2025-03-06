@@ -17,6 +17,7 @@
 Using PHP, I built the backend of a dynamic website that interacted with an SQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. 
 
 ### Machine Learning Recommender System
+[Slides](/assets/img/TripRecc.pdf)
 I spent a semester doing exploratory data analysis to identify common trends in large-scale databases. From these trends, my team used machine learning to map out our data so we could recommend relevant criteria to users.
 
 ### Impact X 
