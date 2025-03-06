@@ -18,6 +18,7 @@ Using PHP, I built the backend of a dynamic website that interacted with an SQL 
 
 ### Machine Learning Recommender System
 [Slides](/assets/img/TripRecc.pdf)
+
 I spent a semester doing exploratory data analysis to identify common trends in large-scale databases. From these trends, my team used machine learning to map out our data so we could recommend relevant criteria to users.
 
 ### Impact X 
