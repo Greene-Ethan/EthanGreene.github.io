@@ -27,6 +27,8 @@ I spent a semester doing exploratory data analysis to identify common trends in 
 I worked with a team of entrepreneurs to develop a for-profit start-up company with a purpose to change the world for the better. We then pitched our company to a group of angel investors.
 
 ## Relevant Coursework
+[Brief Overview](https://greene-ethan.github.io/EthanGreene.github.io/assets/img/TripRecc.pdf)
+
 •	Computer and Network Security
 
 •	Server-Side Web Programming
