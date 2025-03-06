@@ -7,12 +7,11 @@
 
 ## Work Experience
 **AI Developer @ Querri (_January 2025 - Present_)**
-- I interned at Querri to help create natural language processing models.
-- I am researching methods of training language models with the intent to implement them.
+- I am interning at Querri to help create natural language processing models.
+- Through an agile development model, my team and I are working in 2-week sprints in order to develop AI models.
 
 ## Projects
-### Web Development 
-[Link](https://www.mdpi.com/1424-8220/22/8/3048)
+### Web Development
 
 Using PHP, I built the backend of a dynamic website that interacted with an SQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. 
 
