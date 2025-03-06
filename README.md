@@ -39,3 +39,16 @@ I worked with a team of entrepreneurs to develop a for-profit start-up company w
 •	Digital Logic & Computer Organization
 
 •	Data Structures and Advanced Algorithms
+
+## Academic Presentations
+[AI's Black-box Problem](/assets/img/AIsBlack-boxProblem.pdf)
+
+Presentation on the dangers of AI integration.
+
+[Web Security](/assets/img/WebSecurity.pdf)
+
+Presentation on web Security.
+
+[Website Software Requirement Specification Presentation](/assets/img/DukedomSRSPresentation.pdf)
+
+Presenting the SRS document for our website Dukedom.
