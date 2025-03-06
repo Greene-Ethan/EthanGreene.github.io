@@ -26,8 +26,13 @@ I worked with a team of entrepreneurs to develop a for-profit start-up company w
 
 ## Relevant Coursework
 •	Computer and Network Security
+
 •	Server-Side Web Programming
+
 •	Data Mining
+
 •	Programming Language Concepts
+
 •	Digital Logic & Computer Organization
+
 •	Data Structures and Advanced Algorithms
