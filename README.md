@@ -21,6 +21,7 @@ I spent a semester doing exploratory data analysis to identify common trends in 
 
 ### Impact X 
 [Link](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
+
 I worked with a team of entrepreneurs to develop a for-profit start-up company with a purpose to change the world for the better. We then pitched our company to a group of angel investors.
 
 ## Relevant Coursework
