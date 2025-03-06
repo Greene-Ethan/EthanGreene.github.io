@@ -41,14 +41,22 @@ I worked with a team of entrepreneurs to develop a for-profit start-up company w
 •	Data Structures and Advanced Algorithms
 
 ## Academic Presentations
-[AI's Black-box Problem](/assets/img/AIsBlack-boxProblem.pdf)
 
-Presentation on the dangers of AI integration.
 
-[Web Security](/assets/img/WebSecurity.pdf)
+[AI's Black-box Problem](/assets/img/AIsBlack-boxproblem.pdf)
 
-Presentation on web Security.
+- Presentation on the dangers of AI integration.
+
+[Website Software Requirement Specification Document](/assets/img/SoftwareRequirementSpecificationDocument.pdf)
 
 [Website Software Requirement Specification Presentation](/assets/img/DukedomSRSPresentation.pdf)
 
-Presenting the SRS document for our website Dukedom.
+- Presenting the SRS document for our website Dukedom.
+
+[Usecases of Eigenvalues and Stochastic Matrices](/assets/img/Math203FinalPaper.pdf)
+
+- Report on some of the use cases of eigenvalues and Stochastic matrices.
+
+[Web Security](/assets/img/WebSecurity.pdf)
+
+- Presentation on web Security.
