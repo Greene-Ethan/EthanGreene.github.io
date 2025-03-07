@@ -1,6 +1,6 @@
 # Computer Scientist
 
-#### Technical Skills: Java, SQL, Python, PHP
+#### Technical Skills: Java, SQL, Python, PHP, Azure AI
 
 ## Education
 - BS, Computer Science | College of Charleston (_May 2025_)
@@ -50,7 +50,7 @@ I worked with a team of entrepreneurs to develop a for-profit start-up company w
 
 [Website Software Requirement Specification Presentation](/assets/img/DukedomSRSPresentation.pdf)
 
-- Presenting the SRS document for our website Dukedom.
+- Presentation of the SRS document for our website Dukedom.
 
 [Usecases of Eigenvalues and Stochastic Matrices](/assets/img/Math203FinalPaper.pdf)
 
