@@ -1,6 +1,6 @@
 # Computer Scientist
 
-#### Technical Skills: Java, SQL, Python, PHP, Azure AI
+#### Technical Skills: Java, SQL, Python, PHP, C, Azure AI
 
 ## Education
 - BS, Computer Science | College of Charleston (_May 2025_)
