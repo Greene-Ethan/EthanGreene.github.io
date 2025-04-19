@@ -3,7 +3,7 @@
 #### Technical Skills: Java, SQL, Python, PHP, C, Small Language Model Fine-tuning
 
 ## Education
-- BS, Computer Science | College of Charleston (_May 2025_) Major GPA: 3.8
+- BS, Computer Science | College of Charleston | Major GPA: 3.8
 
 ## Work Experience
 **Language Model Fine-Tuning @ Querri (_January 2025 - April 2025_)**
