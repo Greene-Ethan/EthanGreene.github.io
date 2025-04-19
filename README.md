@@ -35,7 +35,7 @@ I worked with a team of entrepreneurs to develop a for-profit start-up company w
 
 ### Foundational Java Datastructures Implementation
 
-Implemented core data structures in Java from scratch—including linked lists, dynamic array lists, binary search trees, min heaps, and hash tables—to strengthen understanding of memory management, algorithm efficiency, and data organization.
+Implemented core data structures in Java from scratch—including [linked lists](assets/code/DatastructuresImplementation/LinkedListADT.java), dynamic [array lists](/assets/code/DatastructuresImplementation/ArrayListADT.java), [binary search trees](/assets/code/DatastructuresImplementation/BST.java), [min heaps](assets/code/DatastructuresImplementation/MinHeap.java), and [hash tables](assets/code/DatastructuresImplementation/HashTable.java) to strengthen understanding of memory management, algorithm efficiency, and data organization.
 
 ### Memory Simulator
 [Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
