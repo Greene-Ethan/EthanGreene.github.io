@@ -28,6 +28,8 @@ I worked with a team of entrepreneurs to develop a for-profit start-up company w
 ## Relevant Coursework
 • Software Engineering Capstone - Applications of Agile software engineering principles
 
+• Database Concepts
+
 • Operating Systems
 
 •	Computer and Network Security
