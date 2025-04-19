@@ -35,7 +35,7 @@ As part of a semester-long course, I collaborated with a team to develop a for-p
 
 ### Foundational Java Datastructures Implementation
 
-Implemented core data structures in Java from scratch—including [linked lists](assets/code/DatastructuresImplementation/LinkedListADT.java), dynamic [array lists](/assets/code/DatastructuresImplementation/ArrayListADT.java), [binary search trees](/assets/code/DatastructuresImplementation/BST.java), [min heaps](assets/code/DatastructuresImplementation/MinHeap.java), and [hash tables](assets/code/DatastructuresImplementation/HashTable.java) to strengthen understanding of memory management, algorithm efficiency, and data organization.
+Implemented core data structures in Java from scratch—including [linked lists](assets/code/DatastructuresImplementation/LinkedListADT.java), dynamic [array lists](/assets/code/DatastructuresImplementation/ArrayListADT.java), [binary search trees](/assets/code/DatastructuresImplementation/BST.java), [min heaps](assets/code/DatastructuresImplementation/MinHeap.java), and [hash tables](assets/code/DatastructuresImplementation/HashTable.java)-to strengthen understanding of memory management, algorithm efficiency, and data organization.
 
 ### Memory Simulator
 [Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
