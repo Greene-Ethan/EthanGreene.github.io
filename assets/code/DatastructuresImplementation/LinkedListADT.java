@@ -1,9 +1,3 @@
-/**
- * @author Ethan Greene
- * @date August 27, 2023
- * I affirm that I have not given or received any unauthorized 
- * help on this assignment and that this work is my own. - Ethan Greene
- */
 public class LinkedListADT<T> implements ListADT<T> {
 
     class Node<T>{
