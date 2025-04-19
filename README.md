@@ -12,7 +12,7 @@ Utilized Python to fine-tune an open-source small language model for Querri, imp
 - [How I made my supervised small language model](https://nbviewer.org/github/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
 - [Where to find my model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
 
-Took turns serving as Scrum Master, facilitating daily stand-ups, sprint reviews, and retrospectives to ensure continuous team improvement and alignment.
+Rotated Scrum Master responsibilities, leading daily stand-ups, sprint reviews, and retrospectives to foster collaboration and iterative improvement.
 - [Sprint Metrics](/assets/img/SprintMetrics.pdf)
 
 ## Projects
@@ -26,7 +26,7 @@ Using PHP, I built the backend of a dynamic website that interacted with a SQL d
 ### Machine Learning Recommender System
 [Brief Overview](/assets/img/TripRecc.pdf)
 
-I spent a semester doing exploratory data analysis to identify common trends in large-scale databases. From these trends, my team used machine learning to map out our data so we could recommend relevant criteria to users.
+Conducted semester-long exploratory data analysis to uncover trends in large-scale datasets, enabling effective machine learning–based recommendations.
 
 ### Impact X 
 [Link](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
