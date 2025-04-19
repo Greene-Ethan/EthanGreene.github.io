@@ -80,7 +80,7 @@ public class HashTable{
         int h = (2 * this.prime * elem + 3)%this.internal.length;
         int linearAdd = h + 1;
         boolean notPlaced = true;
-        // NEED TO ADD SOMETHING THAT CHECKS IF AT END THEN GOES BACK TO LOOP UNTIL BEGGINNING
+        
         if(this.internal[h] != elem) {
             while(notPlaced){
                 if(linearAdd > this.internal.length - 1)
@@ -131,7 +131,7 @@ public class HashTable{
         int h = (2 * this.prime * elem + 3)%this.internal.length;
         int linearAdd = h + 1;
         boolean notPlaced = true;
-        // NEED TO ADD SOMETHING THAT CHECKS IF AT END THEN GOES BACK TO LOOP UNTIL BEGGINNING
+        
         if(this.internal[h] != elem) {
             while(notPlaced){
                 if(linearAdd > this.internal.length - 1)
