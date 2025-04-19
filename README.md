@@ -19,6 +19,7 @@ Took turns serving as Scrum Master, facilitating daily stand-ups (DSUs), sprint 
 ### Web Development
 [Video Demo](https://www.youtube.com/watch?v=3ox0X4IIbkM)
 [Code Repository](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
+
 Using PHP, I built the backend of a dynamic website that interacted with an SQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. 
 
 ### Machine Learning Recommender System
