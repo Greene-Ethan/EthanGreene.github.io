@@ -12,7 +12,7 @@ Utilized Python to fine-tune an open-source small language model for Querri, imp
 - [How I made my supervised small language model](https://nbviewer.org/github/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
 - [Where to find my model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
 
-Took turns serving as Scrum Master, facilitating daily stand-ups (DSUs), sprint reviews, and retrospectives to ensure continuous team improvement and alignment. - 
+Took turns serving as Scrum Master, facilitating daily stand-ups (DSUs), sprint reviews, and retrospectives to ensure continuous team improvement and alignment.
 - [Sprint Metrics](/assets/img/SprintMetrics.pdf)
 
 ## Projects
