@@ -32,6 +32,12 @@ I spent a semester doing exploratory data analysis to identify common trends in 
 
 I worked with a team of entrepreneurs to develop a for-profit start-up company with a purpose to change the world for the better. We then pitched our company to a group of angel investors.
 
+### Memory Simulator
+[Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
+
+Implemented memory allocation simulations in C, demonstrating best fit, next fit, and first fit strategies for dynamic RAM management.
+
+
 ## Relevant Coursework
 • Software Engineering Capstone - Applications of Agile software engineering principles
 
