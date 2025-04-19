@@ -33,6 +33,10 @@ I spent a semester doing exploratory data analysis to identify common trends in 
 
 I worked with a team of entrepreneurs to develop a for-profit start-up company with a purpose to change the world for the better. We then pitched our company to a group of angel investors.
 
+### Foundational Java Datastructures Implementation
+
+Implemented core data structures in Java from scratch—including linked lists, dynamic array lists, binary search trees, min heaps, and hash tables—to strengthen understanding of memory management, algorithm efficiency, and data organization.
+
 ### Memory Simulator
 [Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
 
