@@ -1,0 +1,921 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main{/*for the entire site, formats background */
+  width: 100%;
+  background: linear-gradient(to top, rgba(0,0,0,0.7)50%, rgba(0,0,0,0.7)50%), url(Dukedom_BG_alt.jpg);
+  background-position: center;
+  background-size: cover;
+  height:109vh;
+}
+
+.navbar{/*for the navigation bar*/
+  width: 1200px;
+  height: 75px;
+  margin: auto;
+}
+
+.icon{/*brand logo and name on navbar*/
+  width: 200px;
+  float: left;
+  height: 70px;
+}
+
+.logo{/*brand logo and name on navbar*/
+  color: #fff;
+  font-size: 30px;/*please?*/
+  font-family: Arial;
+  padding-left: 20px;
+  float: left;
+  padding-top: 15px;
+}
+
+.logo a{/*brand logo and name on navbar*/
+  text-decoration: none;
+  color: #fff;
+}
+  
+.menu{/*navbar spacing and size*/
+  width: 500 px;
+  float: left;
+  height: 70px;
+}
+
+ul{/*navbar alignment*/
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+ul li{/*navbar alignment*/
+  list-style: none;
+  margin-left: 80px;
+  margin-top: 27px;
+  font-size: 16px;/*adjusted for sixing fun*/
+}
+
+ul li a{/*navbar formatting*/
+  text-decoration: none;
+  color: #fff;
+  font-family: Arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{/*navbar formatting*/
+  color: #388adc;
+}
+
+
+.search{/*search bar size*/
+  width: 330px;
+  float: left;
+  margin-left: 270px;
+}
+
+.srch{/*search bar type-field*/
+  font-family: "Times New Roman";
+  width: 200px;
+  height: 40px;
+  background: transparent;
+  border: 1px solid #388adc;
+  margin-top: 13px;
+  color: #fff;
+  border-right: none;
+  font-size: 16px;
+  float: left;
+  padding: 10px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.btn{/*search button*/
+  width: 100px;
+  height: 40px;
+  background: #388adc;
+  border: 2px solid #388adc;
+  margin-top: 13px;
+  color: #fff;
+  font-size: 15px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:focus{/*search button*/
+  outline: none;
+}
+
+.srch:focus{/*search button*/
+  outline: none;
+}
+/*HOMEPAGE*/
+.content{/*home page and small paragraph*/
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  color: #fff;
+  position: relative;
+}
+
+.content .par{/*paragraph formatiing*/
+  padding: 20px;
+  padding-bottom: 25px;
+  font-family: Arial;
+  letter-spacing: 1.2px;
+  lint-height: 30px;
+}
+
+.content h1{/*title splash formatting*/
+  font-family: Times New Roman;
+  font-size: 50px;
+  padding-left: 20px;
+  margin-top: 9%;
+  letter-spacing: 2px;
+}
+
+.content .cn{/*learn more button*/
+  width: 160px;
+  height: 40px;
+  background: #388adc;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .4s ease;
+}
+
+.content a{/*removing link underline on button*/
+  text-decoration: none;
+  color: #000;
+  transition: .3s ease;
+}
+
+.cn:hover{/*animation on learn more button*/
+  background-color: #fff;
+}
+
+.content span{/*highlight color on splash title*/
+  color: #388adc;
+  font-size: 60px;
+}
+
+.form{/*sign in box*/
+  width: 300px;
+  height: 350px;/*add 55px if returning log in with section*/
+  background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+  position: absolute;
+  top: -20px;
+  left: 870px;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.form h2{/*log in title*/
+  width: 110px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  background: transparent;
+  border-radius: 10px;
+  margin-top: 2px;
+  margin-left: 62px;
+  padding: 8px;
+}
+
+.form input{/*email and password typelines*/
+  width: 240px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #388adc;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  color: #fff;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  font-family: Arial;
+}
+
+.form input:focus{/*remove frills*/
+    outline: none;
+}
+
+::placeholder{/*make password dots*/
+  color: #fff;
+  font-family: Arial;
+}
+
+.form .link{/*'need an account?' title formatting*/
+  font-family: Arial;
+  font-size: 17px;
+  padding-top: 25px;/*remove 5px if returning log in with section*/
+  text-align: center;
+}
+
+.form .link a{/*remove link formatting on sign up here line*/
+  text-decoration: none;
+  color: #388adc;
+}
+/*failed login page*/
+.faillog{
+  width: 200px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #d83723;
+  font-size: 14px;
+  background: transparent;
+  border-radius: 10px;
+  margin-top: 1px;
+  margin-left: 25px;
+  padding: 1px;
+}
+.form .newheader{
+font-size:20px;
+padding: 0px;
+}
+/*end failed login*/
+/*END HOMEPAGE Specific*/
+
+.subbtn{/*basic button can be used elsewhere*/
+  width: 240px;
+  height: 40px;
+  background: #388adc;
+  border: none;
+  margin-top: 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: .4s ease;
+}
+
+.subbtn:hover{/*basic button animation*/
+  background: #fff;
+  color: #338adc;
+}
+
+.subbtn a{/*basic formatting*/
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+/*CONTACT PAGE START*/
+.contactcontent{
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  color: #fff;
+  position: relative;
+}
+
+.contactcontent h1{
+  font-family: Times New Roman;
+  font-size: 45px;
+  text-align: center;
+  margin-top: 9%;
+  letter-spacing: 2px;
+  color: #fff;
+}
+.contactcontent span2{
+  font-family: Arial;
+  letter-spacing: .1px;
+  color: #388acd;
+  font-size: 40px;
+}
+
+.contactcontent .par2{
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 25px;
+  font-family: Arial;
+  letter-spacing: 1.2px;
+  line-height: 30px;
+}
+
+.contactcontent h2{
+  text-align: center;
+  font-size: 25px;
+}
+  /*FOR AI*/
+df-messenger {
+    z-index: 999;
+    position: fixed;
+    --df-messenger-font-color: #000;
+    --df-messenger-font-family: Google Sans;
+    --df-messenger-chat-background: #f3f6fc;
+    --df-messenger-message-user-background: #d3e3fd;
+    --df-messenger-message-bot-background: #fff;
+    bottom: 16px;
+    right: 16px;
+  }
+
+/*END OF COTNACT PAGE*/
+
+/*ABOUT PAGE*/
+.aboutcontent{/*home page and small paragraph*/
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  color: #fff;
+  position: relative;
+}
+
+.aboutcontent h1{/*title splash formatting*/
+  font-family: Times New Roman;
+  font-size: 45px;
+  padding-left: 20px;
+  margin-top: 9%;
+  letter-spacing: 2px;
+}
+
+.aboutcontent span2{/*highlight color on header*/
+  color: #388adc;
+  font-size: 47px;
+}
+
+.aboutcontent .par2{/*paragraph formatiing*/
+  padding: 20px;
+  padding-bottom: 25px;
+  font-family: Arial;
+  letter-spacing: 1.2px;
+  lint-height: 30px;
+}
+
+.aboutcontent span3{
+  color: #388adc;
+  font-style: italic;
+}
+
+.aboutcontent h2{
+  font-family: Times New Roman;
+  padding-left: 20px;
+}
+/*END ABOUT PAGE Specific*/
+
+/*REGISTER ACCT PAGE*/
+.registeracct{
+  font-family: Arial;
+  font-size: 15px;
+  margin-top: 20px;
+  background: rgba(0,0,0,.9);
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 300px;
+  height: 500px;
+}
+
+.registeracct input{
+  padding-left: 15px;
+  width: 280px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #388adc;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  font-family: Arial;
+  color: #fff;
+  align: left;
+}
+
+.registeracct option{ 
+  margin-top: 10px;
+  margin-left:15px;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.registeracct input:focus{/*remove frills*/
+  outline: none;
+  border-bottom: 2px solid #388adc;
+}
+.content3{/*register user and small paragraph*/
+  padding-top: 30px;
+  align: center;
+  width: 1200px;
+  height: auto;
+  margin-left: 40%;
+  color: #fff;
+  /*position: relative;*/
+}
+
+.content3 h2{ margin-left: 3%;}
+
+/*END register account*/
+
+/*list_houses page*/
+
+.listingsContent{
+  align: center;
+  width: 1200px;
+  height: auto;
+  margin-left:18%;
+ 
+}
+.house_box {
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-left: 20px;
+  color: #fff;
+  font-family: Arial;
+  font-size: 20px;
+  border: 1px solid #000;
+  background: #000;
+  background: rgba(0,0,0,0.90);
+  height: 285px;
+  width: 210px;
+  float: center;
+  border-radius: 10px;
+}
+.house_box img{
+  border-radius: 5px;
+}
+
+.house_box span{
+  color:#388adc
+}
+
+.houseListings{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.houseListings a{
+  font-weight: normal;
+}
+.houseListings a:hover{
+  color: #fff;
+}
+/*end list_houses page*/
+
+
+/*house_details page*/
+.content_details{
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  color: #fff;
+  position: relative;
+}
+.content_details h2 span{
+ color: #388adc;
+}
+.buybtn{
+  width: 180px;
+  height: 40px;
+  background: #388adc;
+  border: none;
+  margin-top: 5px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: .4s ease;
+}
+
+.buybtn:hover{
+  background: #fff;
+  color: #338adc;
+}
+
+.buybtn a{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  max-height: 1000px;
+  position: absolute;
+  top: 110px;
+  left: 700px;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 1px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/*end house_details page*/
+
+/*profile page start*/
+.userinfo{
+  padding-top: 22px;
+  align: center;
+  width: 300px;
+  height: 500px;
+  margin-left: 15%;
+  color: #fff;
+}
+
+.uilist{
+  font-family: Arial;
+  font-size: 16px;
+  margin-top: 28px;
+  background: rgba(0,0,0,.9);
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 350px;
+  height: 400px;
+  padding-top:15px;
+  padding-left: 15px;
+  letter-spacing: 1px;
+  color: #fff;
+  margin-top:
+}
+.uilist span{
+ color:#388adc;
+ font-weight: bold;
+}
+
+.editProfilebtn{
+  width: 180px;
+  height: 40px;
+  background: #388adc;
+  border: none;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: .4s ease;
+}
+
+.editProfilebtn:hover{
+  background: #fff;
+  color: #338adc;
+}
+
+.editProfilebtn a{
+  text-decoration: none;
+  color: #000;
+}
+
+.ownedProps{
+ position: absolute;
+ top: 97px;
+ left: 650px;
+ margin: auto;
+ color: #fff;
+}
+
+.sellingProps{
+ position: absolute;
+ top: 97px;
+ left: 1150px;
+ margin: auto;
+ color: #fff;
+}
+/*End Profile page*/
+
+/*Profile Edit Page*/
+.editacct{
+  font-family: Arial;
+  font-size: 15px;
+  margin-top: 20px;
+  background: rgba(0,0,0,.9);
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 300px;
+  height: 685px;
+}
+
+
+input[type=button]{/*the only thing that works here is the radisu and idk why*/
+  background: #388adc;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #388adc;
+  transition: .4s ease;
+  margin-left: 55px;
+}
+
+.editacct input{
+  padding-left: 15px;
+  width: 280px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #388adc;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  font-family: Arial;
+  color: #fff;
+  align: center;
+  margin-left: 10px;
+  padding-top: 2px;
+}
+
+.editacct option{ 
+  margin-top: 10px;
+  margin-left: 15px;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.editacct input:focus{/*remove frills*/
+  outline: none;
+  border-bottom: 2px solid #388adc;
+}
+.editProfilepg{/*register user and small paragraph*/
+  padding-top: 30px;
+  align: center;
+  width: 1200px;
+  height: auto;
+  margin-left: 40%;
+  color: #fff;
+  /*position: relative;*/
+}
+
+.editProfilepg h2{ margin-left: 4%;}
+
+.saveProfInfo:hover{
+  background: #fff;
+  color: #338adc;
+}
+
+/*END edit profile account*/
+
+/*non-verified Profile button*/
+.subbtn2{
+  width: 245px;
+  height: 60px;
+  background: #388adc;
+  border: none;
+  margin-left: 5px;
+  margin-top: 27px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: .4s ease;
+}
+.subbtn2:hover{/*basic button animation*/
+  background: #fff;
+  color: #338adc;
+}
+
+.subbtn2 a{/*basic formatting*/
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+/*End non-verified page button*/
+
+/* Sell Page, verified*/
+.sellInputs{
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 20px;
+  background: rgba(0,0,0,.9);
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 300px;
+  height: 450px;
+  margin-left: 6.5%;
+  padding-top: 5px;
+  color: #fff;
+}
+
+.sellInputs input{
+  padding-left: 15px;
+  width: 280px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #388adc;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  font-family: Arial;
+  color: #fff;
+  align: center;
+  margin-left: 10px;
+  padding-top: 3px;
+}
+
+.sellInputs option{ 
+  margin-top: 10px;
+  margin-left:15px;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.sellInputs input:focus{/*remove frills*/
+  outline: none;
+  border-bottom: 2px solid #388adc;
+}
+.sellForm{/*register user and small paragraph*/
+  padding-top: 30px;
+  align: center;
+  width: 1200px;
+  height: auto;
+  margin-left: 35%;
+  color: #fff;
+  /*position: relative;*/
+}
+
+.sellButton{/*basic button can be used elsewhere*/
+  width: 240px;
+  height: 40px;
+  background: #388adc;
+  border: none;
+  margin-top: 15px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: .4s ease;
+  margin-left: 30px;
+}
+
+.sellButton:hover{/*basic button animation*/
+  background: #fff;
+  color: #338adc;
+}
+
+.sellButton a{/*basic formatting*/
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+
+/*End Verified Sell Page*/
+
+/* Sell Page, NONverified*/
+.sellInputs2{
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 20px;
+  background: rgba(0,0,0,.9);
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 350px;
+  height: 200px;
+  margin-left: 5.5%;
+  padding-top: 5px;
+  color: #fff;
+  padding-left: 5px;
+}
+
+
+.sellForm{/*register user and small paragraph*/
+  padding-top: 30px;
+  align: center;
+  width: 1200px;
+  height: auto;
+  margin-left: 35%;
+  color: #fff;
+  /*position: relative;*/
+}
+
+.sellButton2{/*basic button can be used elsewhere*/
+  width: 240px;
+  height: 40px;
+  background: #388adc;
+  border: none;
+  margin-top: 40px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  transition: .4s ease;
+  margin-left: 50px;
+}
+
+.sellButton2:hover{/*basic button animation*/
+  background: #fff;
+  color: #338adc;
+}
+
+.sellButton2 a{/*basic formatting*/
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+/*End NONVerified Sell Page*/
+
+/*for when we had log in with section  
+.liw{        /*this is for sign in/up with other applications
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.icons a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.icons ion-icon{
+  color: #fff;
+  font-size: 30px;
+  padding-left: 14px;
+  padding-top: 5px;
+  transition: .3s ease;
+}
+
+.icons ion-icon:hover{
+  color: #388adc;
+} */
