@@ -6,7 +6,7 @@
 - BS, Computer Science | College of Charleston (_May 2025_) Major GPA: 3.8
 
 ## Work Experience
-**AI Developer @ Querri (_January 2025 - Present_)**
+**Language Model Fine-Tuning @ Querri (_January 2025 - April 2025_)**
 
 Utilized Python to fine-tune an open-source small language model for Querri, improving code validation and reliability within their AI data analytics.
 - [How I made my supervised small language model](https://nbviewer.org/github/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
