@@ -1,11 +1,3 @@
-/**
- * @author Ethan Greene
- * @date August 29, 2023
- *
- * Honor Code: While it is permitted to discuss with
- * your classmates, all code should be written by you and not copied
- * (even if you retype) from any other source. 
- */
 public class ArrayListADT<T> implements ListADT<T> {
 
     // The internal array that we manage
