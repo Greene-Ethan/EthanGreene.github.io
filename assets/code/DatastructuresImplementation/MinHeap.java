@@ -1,12 +1,6 @@
 import java.util.*;
 import java.lang.Math;
-/**
- * @author Michael Levet
- * @date 10/25/2023
- */
- 
- // The syntax <T extends Comparable<? super T>> ensures
- // that any two elements will be mutually comparable
+
 public class MinHeap<T extends Comparable<? super T>>{
     T[] internal = (T[])new Comparable[10];
     private int size = 0; // recall that internal.length might be > the number of elements in the MinHeap
