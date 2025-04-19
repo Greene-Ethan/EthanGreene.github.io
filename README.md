@@ -7,6 +7,7 @@
 
 ## Work Experience
 **AI Developer @ Querri (_January 2025 - Present_)**
+
 Utilized Python to fine-tune an open-source small language model for Querri, improving code validation and reliability within their AI data analytics.
 - Took turns serving as Scrum Master, facilitating daily stand-ups (DSUs), sprint reviews, and retrospectives to ensure continuous team improvement and alignment. [Sprint Metrics](/assets/img/SprintMetrics.pdf)
 
