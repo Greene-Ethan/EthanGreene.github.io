@@ -26,6 +26,9 @@ I spent a semester doing exploratory data analysis to identify common trends in 
 I worked with a team of entrepreneurs to develop a for-profit start-up company with a purpose to change the world for the better. We then pitched our company to a group of angel investors.
 
 ## Relevant Coursework
+• Software Engineering Capstone - Applications of Agile software engineering principles
+
+• Operating Systems
 
 •	Computer and Network Security
 
