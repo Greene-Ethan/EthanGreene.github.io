@@ -12,7 +12,7 @@ Utilized Python to fine-tune an open-source small language model for Querri, imp
 - [How I made my supervised small language model](https://nbviewer.org/github/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
 - [Where to find my model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
 
-Took turns serving as Scrum Master, facilitating daily stand-ups (DSUs), sprint reviews, and retrospectives to ensure continuous team improvement and alignment.
+Took turns serving as Scrum Master, facilitating daily stand-ups, sprint reviews, and retrospectives to ensure continuous team improvement and alignment.
 - [Sprint Metrics](/assets/img/SprintMetrics.pdf)
 
 ## Projects
@@ -21,7 +21,7 @@ Took turns serving as Scrum Master, facilitating daily stand-ups (DSUs), sprint 
 
 [Code Repository](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
 
-Using PHP, I built the backend of a dynamic website that interacted with an SQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. 
+Using PHP, I built the backend of a dynamic website that interacted with a SQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. 
 
 ### Machine Learning Recommender System
 [Brief Overview](/assets/img/TripRecc.pdf)
@@ -31,7 +31,7 @@ I spent a semester doing exploratory data analysis to identify common trends in 
 ### Impact X 
 [Link](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
 
-I worked with a team of entrepreneurs to develop a for-profit start-up company with a purpose to change the world for the better. We then pitched our company to a group of angel investors.
+As part of a semester-long course, I collaborated with a team to develop a for-profit startup focused on social impact. Led aspects of product development and strategy, and pitched the final concept to a panel of angel investors.
 
 ### Foundational Java Datastructures Implementation
 
