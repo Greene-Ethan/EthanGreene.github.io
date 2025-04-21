@@ -8,7 +8,7 @@
 ## Work Experience
 **Language Model Fine-Tuning @ Querri (_January 2025 - April 2025_)**
 
-Utilized Python to fine-tune an open-source small language model for Querri, improving code validation and reliability within their AI data analytics.
+Utilized Python to fine-tune an open-source small language model for Querri, improving code validation and reliability within their AI data analytics. See the links below for the Python code I used to make my model and the actual model itself.
 - [How I made my supervised small language model](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
 - [Where to find my model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
 
