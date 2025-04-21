@@ -9,7 +9,7 @@
 **Language Model Fine-Tuning @ Querri (_January 2025 - April 2025_)**
 
 Utilized Python to fine-tune an open-source small language model for Querri, improving code validation and reliability within their AI data analytics.
-- [How I made my supervised small language model](https://nbviewer.org/github/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
+- [How I made my supervised small language model](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
 - [Where to find my model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
 
 Rotated Scrum Master responsibilities, leading daily stand-ups, sprint reviews, and retrospectives to foster collaboration and iterative improvement.
