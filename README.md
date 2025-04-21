@@ -17,30 +17,33 @@ Rotated Scrum Master responsibilities, leading daily stand-ups, sprint reviews, 
 
 ## Projects
 ### Web Development
-[Video Demo](https://www.youtube.com/watch?v=3ox0X4IIbkM)
 
-[Code Repository](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
+Using PHP, I built the backend of a dynamic website that interacted with a MySQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. Please see my video demo of the website and the code listed below.
 
-Using PHP, I built the backend of a dynamic website that interacted with a SQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. 
+- [Video Demo](https://www.youtube.com/watch?v=3ox0X4IIbkM)
+
+- [Code Repository](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
 
 ### Machine Learning Recommender System
-[Brief Overview](/assets/img/TripRecc.pdf)
 
-Conducted semester-long exploratory data analysis to uncover trends in large-scale datasets, enabling effective machine learning–based recommendations.
+Conducted semester-long exploratory data analysis to uncover trends in large-scale datasets, enabling effective machine learning–based recommendations. Below is a presentation-style overview of some of the accomplishments from this project.
+
+- [Brief Overview](/assets/img/TripRecc.pdf)
 
 ### Impact X 
-[Link](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
 
-As part of a semester-long course, I collaborated with a team to develop a for-profit startup focused on social impact. Led aspects of product development and strategy, and pitched the final concept to a panel of angel investors.
+As part of a semester-long course, I collaborated with a team to develop a for-profit startup focused on social impact. Led aspects of product development and strategy, and pitched the final concept to a panel of angel investors. Below is a link to the CofC page about Impact X for more information.
+
+- [Link](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
 
 ### Foundational Java Datastructures Implementation
 
 Implemented core data structures in Java from scratch—including [linked lists](assets/code/DatastructuresImplementation/LinkedListADT.java), dynamic [array lists](/assets/code/DatastructuresImplementation/ArrayListADT.java), [binary search trees](/assets/code/DatastructuresImplementation/BST.java), [min heaps](assets/code/DatastructuresImplementation/MinHeap.java), and [hash tables](assets/code/DatastructuresImplementation/HashTable.java)-to strengthen understanding of memory management, algorithm efficiency, and data organization.
 
 ### Memory Simulator
-[Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
-
 Implemented memory allocation simulations in C, demonstrating best fit, next fit, and first fit strategies for dynamic RAM management.
+
+- [Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
 
 
 ## Relevant Coursework
