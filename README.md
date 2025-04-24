@@ -8,17 +8,46 @@
 ## Work Experience
 **Language Model Fine-Tuning @ Querri (_January 2025 - April 2025_)**
 
-Utilized Python to fine-tune an open-source small language model for Querri, improving code validation and reliability within their AI data analytics. See the links below for the Python code I used to make my model and the actual model itself.
-- [How I made my supervised small language model](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
-- [Where to find my model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
+Fine-tuned a small language model (SLM) using supervised learning techniques to identify variables in Python code. Leveraged Hugging Face Transformers to enhance code validation and accuracy for internal AI data tools.
 
-Rotated Scrum Master responsibilities, leading daily stand-ups, sprint reviews, and retrospectives to foster collaboration and iterative improvement.
-- [Sprint Metrics](/assets/img/SprintMetrics.pdf)
+Key Contributions:
+
+- Fine-tuned a small language model to recognize and label variables in Python source code.
+
+- Designed and implemented supervised learning pipelines using Hugging Face’s Trainer and Transformers.
+
+- Developed preprocessing and postprocessing logic to optimize code parsing and variable recognition.
+
+- Evaluated model performance with validation metrics, error analysis, and testing datasets.
+
+- Rotated Scrum Master responsibilities: led stand-ups, sprint reviews, and retrospectives.
+
+- Collaborated with a team to integrate model outputs into production-grade analytics systems.
+
+Related Work:
+
+- [Model Training Notebook (Jupyter)](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
+
+- [Hosted Model on Hugging Face](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
+
+- [Sprint Metrics Report (PDF)](/assets/img/SprintMetrics.pdf)
 
 ## Projects
 ### Web Development
 
-Using PHP, I built the backend of a dynamic website that interacted with a MySQL database to authenticate users. Using sessions, users could edit their information, therefore updating the database or registering new accounts, inserting a new user into the database through forms listed on the webpage. Please see my video demo of the website and the code listed below.
+Built the backend of a dynamic website using PHP and MySQL. Implemented session-based user authentication, enabling users to register, log in, and securely update their personal information through form submissions.
+
+Key Contributions:
+
+- Designed and implemented PHP backend logic to connect and interact with a MySQL database.
+
+- Created secure user registration and login workflows using session management.
+
+- Developed forms for user input, enabling dynamic updates to database records.
+
+- Ensured proper user access control and database integrity through validated inputs and error handling.
+
+Related Work:
 
 - [Video Demo](https://www.youtube.com/watch?v=3ox0X4IIbkM)
 
