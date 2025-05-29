@@ -1,0 +1,20 @@
+- name: Dukedom Web App
+  description: Backend in PHP + MySQL with session-based login, form handling, and user auth.
+  link: https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject
+  github: true
+
+- name: Restaurant Recommender
+  description: Used PCA and KNN to make food-based suggestions from user preferences.
+  link: /assets/img/TripRecc.pdf
+
+- name: Impact X Startup
+  description: Social-impact business pitch as part of a semester-long entrepreneurship course.
+  link: https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0
+
+- name: Java Data Structures
+  description: Linked lists, heaps, trees, and hash tables implemented from scratch.
+  link: /assets/code/DatastructuresImplementation
+
+- name: Memory Allocation Simulator
+  description: Simulates RAM allocation strategies (best, next, first fit) in C.
+  link: https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c
