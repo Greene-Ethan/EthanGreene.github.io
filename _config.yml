@@ -17,9 +17,13 @@ about_content: >
   ## Technical Skills
 
   - **Languages:** Java, Python, SQL, PHP, C  
+  
   - **Machine Learning:** Small Language Model Fine-tuning, PCA, KNN  
+  
   - **Web Development:** PHP, MySQL, Session Management, Form Handling  
+  
   - **Tools:** Hugging Face Transformers, Selenium, Pandas  
+  
   - **Methodologies:** Agile, Scrum
 
 # Content Sections
@@ -147,7 +151,7 @@ references_title: References on request
 remote_theme: sproogen/modern-resume-theme
 
 include:
- - _test
+  - _test
 
 exclude:
   - vendor
@@ -157,4 +161,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
