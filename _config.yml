@@ -4,4 +4,6 @@ description: >
 
   Connect with me on LinkedIn: www.linkedin.com/in/ethan-greene-b08a87205
 logo: /assets/img/headshot.jpg
-theme: jekyll-theme-minimal
+remote_theme: sproogen/modern-resume-theme  # or whichever one you choose
+plugins:
+  - jekyll-remote-theme
