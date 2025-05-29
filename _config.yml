@@ -1,12 +1,20 @@
-title: Ethan Greene
-description: Computer Scientist
+# Personal info (fill as needed)
+name: Ethan Greene
+title: Data Scientist & Software Engineer
 email: greeneed@g.cofc.edu
-phone: "(843) 460-3511"
-location: Charleston, SC
-linkedin_username: ethan-greene-b08a87205
-github_username: Greene-Ethan
-avatar: /assets/img/headshot.jpg
+phone: (843) 460 - 3511
 
-remote_theme: sproogen/modern-resume-theme
-plugins:
-  - jekyll-remote-theme
+# About Section
+about_profile_image: assets/img/headshot.jpg
+about_content: >
+  Passionate computer scientist focused on data science and software development.
+
+  Skilled in Java, Python, SQL, PHP, C, and Small Language Model Fine-tuning.
+
+  ## Technical Skills
+
+  - **Languages:** Java, Python, SQL, PHP, C  
+  - **Machine Learning:** Small Language Model Fine-tuning, PCA, KNN  
+  - **Web Development:** PHP, MySQL, Session Management, Form Handling  
+  - **Tools:** Hugging Face Transformers, Selenium, Pandas
+  - **Methodologies:** Agile, Scrum
