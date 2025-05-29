@@ -1,12 +1,12 @@
-- company: Querri
-  position: Language Model Fine-Tuning Intern
+- title: Language Model Fine-Tuning @ Querri
   dates: January 2025 - April 2025
-  location: Remote
-  details:
-    - Fine-tuned a small language model to recognize variables in Python source code.
-    - Built supervised pipelines with Hugging Face's Transformers and Trainer.
-    - Integrated model with internal analytics systems.
-    - Led Agile ceremonies as rotating Scrum Master.
-    - [Model Notebook](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/Supervised.ipynb)
-    - [Hosted Model](https://huggingface.co/EthanCodesAI/Supervised-Variable-Identification)
-    - [Sprint Report (PDF)](/assets/img/SprintMetrics.pdf)
+  description: |
+    Fine-tuned a small language model (SLM) using supervised learning techniques to identify variables in Python code.
+  responsibilities:
+    - Fine-tuned a small language model to recognize and label variables in Python source code.
+    - Designed and implemented supervised learning pipelines using Hugging Face’s Trainer and Transformers.
+    - Developed preprocessing and postprocessing logic to optimize code parsing and variable recognition.
+    - Evaluated model performance with validation metrics, error analysis, and testing datasets.
+    - Rotated Scrum Master responsibilities: led stand-ups, sprint reviews, and retrospectives.
+    - Collaborated with a team to integrate model outputs into production-grade analytics systems.
+ 
