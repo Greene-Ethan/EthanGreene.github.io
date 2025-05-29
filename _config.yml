@@ -1,8 +1,17 @@
+# Site
+repository: sproogen/modern-resume-theme
+
+# Data type version
+version: 2
+
 # Personal info (fill as needed)
 name: Ethan Greene
 title: Data Scientist & Software Engineer
 email: greeneed@g.cofc.edu
 phone: (843) 460 - 3511
+
+# Dark Mode (true/false/never)
+darkmode: never
 
 # About Section
 about_profile_image: assets/img/headshot.jpg
@@ -16,5 +25,25 @@ about_content: >
   - **Languages:** Java, Python, SQL, PHP, C  
   - **Machine Learning:** Small Language Model Fine-tuning, PCA, KNN  
   - **Web Development:** PHP, MySQL, Session Management, Form Handling  
-  - **Tools:** Hugging Face Transformers, Selenium, Pandas
+  - **Tools:** Hugging Face Transformers, Selenium, Pandas  
   - **Methodologies:** Agile, Scrum
+
+# Footer
+footer_show_references: true
+references_title: References on request
+
+# Build settings
+remote_theme: sproogen/modern-resume-theme
+
+include:
+ - _test
+
+exclude:
+  - vendor
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
