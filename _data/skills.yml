@@ -1,0 +1,12 @@
+- name: Python
+  level: Advanced
+- name: Java
+  level: Advanced
+- name: SQL
+  level: Intermediate
+- name: PHP
+  level: Intermediate
+- name: C
+  level: Intermediate
+- name: Language Model Fine-tuning
+  level: Intermediate
