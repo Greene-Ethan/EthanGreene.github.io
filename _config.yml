@@ -2,8 +2,18 @@ title: Ethan Greene
 description: >
   Hi, I’m Ethan. This site highlights my projects and accomplishments in computer science — feel free to reach out at greeneed@g.cofc.edu or (843) 460-3511.
 
-  Connect with me on LinkedIn: www.linkedin.com/in/ethan-greene-b08a87205
-logo: /assets/img/headshot.jpg
-remote_theme: sproogen/modern-resume-theme  # or whichever one you choose
+url: "https://yourusername.github.io"
+baseurl: "/your-repo-name"  # if it's not your user site
+theme: null
+remote_theme: sproogen/modern-resume-theme
+
 plugins:
   - jekyll-remote-theme
+
+# Personal Details
+email: greeneed@g.cofc.edu
+phone: "(843) 460-3511"
+location: Charleston, SC
+linkedin_username: ethan-greene-b08a87205
+github_username: yourusername
+resume_link: /assets/ethan_resume.pdf  # optional
