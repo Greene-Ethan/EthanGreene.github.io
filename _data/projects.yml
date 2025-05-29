@@ -1,26 +1,24 @@
 - name: Dukedom Web App
-  description: Developed a session-based web application using PHP and MySQL; implemented secure login, form handling, and user authentication.
-  link: https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject
-  link_text: View on GitHub
-  github: true
+  description: Developed a PHP/MySQL web app with session-based login, user authentication, and form handling.
+  links:
+    - GitHub: https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject
 
 - name: Restaurant Recommender
-  description: Built a personalized restaurant recommender using PCA for dimensionality reduction and K-NN for clustering based on food preferences.
-  link: /assets/img/TripRecc.pdf
-  link_text: View PDF Report
+  description: Created a recommendation system using PCA and K-NN to suggest restaurants based on user preferences.
+  links:
+    - Project Report (PDF): /assets/img/TripRecc.pdf
 
 - name: Impact X Startup
-  description: Co-founded and pitched a social-impact startup as part of a semester-long entrepreneurship incubator course.
-  link: https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0
-  link_text: About the Program
+  description: Co-founded a social-impact startup and pitched the business concept in a semester-long entrepreneurship course.
+  links:
+    - Program Details: https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php
 
 - name: Java Data Structures
-  description: Implemented core data structures in Java from scratch, including linked lists, heaps, trees, and hash tables.
-  link: /assets/code/DatastructuresImplementation
-  link_text: View Code
+  description: Implemented linked lists, heaps, trees, and hash tables from scratch in Java.
+  links:
+    - Source Code: /assets/code/DatastructuresImplementation
 
 - name: Memory Allocation Simulator
-  description: Simulated RAM allocation strategies (first-fit, next-fit, best-fit) in C to explore memory management efficiency.
-  link: https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c
-  link_text: View on GitHub
-  github: true
+  description: Simulated RAM allocation strategies (first-fit, next-fit, best-fit) in C to analyze memory usage.
+  links:
+    - GitHub: https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c
