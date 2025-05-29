@@ -6,6 +6,7 @@ location: Charleston, SC
 linkedin_username: ethan-greene-b08a87205
 github_username: Greene-Ethan
 avatar: /assets/img/headshot.jpg
+
 remote_theme: sproogen/modern-resume-theme
 plugins:
   - jekyll-remote-theme
