@@ -11,16 +11,20 @@ darkmode: never
 # About Section
 about_profile_image: assets/img/headshot.jpg
 about_content: >
-  Passionate computer scientist focused on data science and software development.
+  A data scientist and software engineer with strong foundations in machine learning, full-stack development, and natural language processing. Skilled in Python, Java, and SQL with hands-on experience in building data-driven solutions and collaborating on Agile teams.
 
   Skilled in Java, Python, SQL, PHP, C, and Small Language Model Fine-tuning.
 
   ## Technical Skills
 
   - **Languages:** Java, Python, SQL, PHP, C  
+  
   - **Machine Learning:** Small Language Model Fine-tuning, PCA, KNN  
+  
   - **Web Development:** PHP, MySQL, Session Management, Form Handling  
+  
   - **Tools:** Hugging Face Transformers, Selenium, Pandas  
+  
   - **Methodologies:** Agile, Scrum
 
 # Content Sections
