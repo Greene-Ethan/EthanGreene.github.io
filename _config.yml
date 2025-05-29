@@ -3,7 +3,6 @@ name: Ethan Greene
 title: Data Scientist & Software Engineer
 email: greeneed@g.cofc.edu
 phone: (843) 460 - 3511
-website: https://ethangreene.github.io
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -107,14 +106,14 @@ content:
           Created simulations of RAM memory allocation in C demonstrating best fit, next fit, and first fit strategies.
 
   - title: Education
-    layout: list
-    content:
-      - title: College of Charleston
-        border: weak
-        sub_title: 2019 - 2023
-        caption: Bachelor of Science in Computer Science
-        description: >
-          Major GPA: 3.8. Relevant coursework includes Software Engineering Capstone, Database Concepts, Operating Systems, Computer and Network Security, Server-Side Web Programming, Data Mining, Programming Language Concepts, Digital Logic & Computer Organization, Data Structures, and Advanced Algorithms.
+  layout: list
+  content:
+    - title: College of Charleston
+      border: weak
+      sub_title: Bachelor of Science in Computer Science, 2025
+      caption: Major GPA: 3.8
+      description: >
+        Completed a rigorous curriculum including Machine Learning, Database Concepts, Software Engineering Capstone, Operating Systems, Computer and Network Security, Server-Side Web Programming, Programming Language Concepts, Digital Logic & Computer Organization, Data Structures, and Advanced Algorithms.
 
   - title: Academic Presentations
     layout: list
