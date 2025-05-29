@@ -1,4 +1,8 @@
-- school: College of Charleston
-  degree: B.S. in Computer Science
-  dates: 2021 – 2025
-  gpa: 3.8 Major GPA
+- layout: left
+  name: College of Charleston
+  dates: 2021 - 2025
+  qualification: B.S. in Computer Science
+  quote: >
+    Major GPA: 3.8 · Overall GPA: 3.5
+  description: >
+    Coursework included database systems, machine learning, operating systems, and software engineering.
