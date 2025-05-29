@@ -1,14 +1,46 @@
-- name: Dukedom Web App
-  description: Developed a PHP/MySQL web app with session-based login, user authentication, and form handling. [GitHub Repo](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
+- layout: top
+  name: Dukedom Web App
+  description: |
+    Backend built in PHP + MySQL with session-based login, form handling, and user authentication.
 
-- name: Restaurant Recommender
-  description: Used PCA and KNN to make food-based suggestions from user preferences. [Project PDF](/assets/img/TripRecc.pdf)
+    Related work:
+    - [Code Repository](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
+    - [Video Demo](https://www.youtube.com/watch?v=3ox0X4IIbkM)
 
-- name: Impact X Startup
-  description: Social-impact business pitch as part of a semester-long entrepreneurship course. [More Info](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
+- layout: top
+  name: Restaurant Recommender
+  description: |
+    Used PCA and KNN algorithms to make food-based recommendations based on user preferences.
 
-- name: Java Data Structures
-  description: Implemented linked lists, heaps, trees, and hash tables from scratch in Java. [Code Samples](/assets/code/DatastructuresImplementation)
+    Related work:
+    - [Project Overview (PDF)](/assets/img/TripRecc.pdf)
 
-- name: Memory Allocation Simulator
-  description: Simulates RAM allocation strategies (best, next, first fit) in C. [Source Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
+- layout: top
+  name: Impact X Startup
+  description: |
+    Social-impact business pitch as part of a semester-long entrepreneurship course.
+    
+    Led product development and strategy; pitched final concept to angel investors.
+
+    Related work:
+    - [Impact X Information](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
+
+- layout: top
+  name: Java Data Structures Implementation
+  description: |
+    Implemented linked lists, heaps, trees, hash tables, and dynamic arrays from scratch in Java.
+
+    Related work:
+    - [Linked List Code](assets/code/DatastructuresImplementation/LinkedListADT.java)
+    - [Array List Code](/assets/code/DatastructuresImplementation/ArrayListADT.java)
+    - [Binary Search Tree Code](/assets/code/DatastructuresImplementation/BST.java)
+    - [Min Heap Code](assets/code/DatastructuresImplementation/MinHeap.java)
+    - [Hash Table Code](assets/code/DatastructuresImplementation/HashTable.java)
+
+- layout: top
+  name: Memory Allocation Simulator
+  description: |
+    Simulates RAM allocation strategies (best fit, next fit, first fit) implemented in C.
+
+    Related work:
+    - [Source Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
