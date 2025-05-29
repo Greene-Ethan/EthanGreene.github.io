@@ -1,24 +1,14 @@
 - name: Dukedom Web App
-  description: Developed a PHP/MySQL web app with session-based login, user authentication, and form handling.
-  links:
-    - GitHub: https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject
+  description: Developed a PHP/MySQL web app with session-based login, user authentication, and form handling. [GitHub Repo](https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject)
 
 - name: Restaurant Recommender
-  description: Created a recommendation system using PCA and K-NN to suggest restaurants based on user preferences.
-  links:
-    - Project Report (PDF): /assets/img/TripRecc.pdf
+  description: Used PCA and KNN to make food-based suggestions from user preferences. [Project PDF](/assets/img/TripRecc.pdf)
 
 - name: Impact X Startup
-  description: Co-founded a social-impact startup and pitched the business concept in a semester-long entrepreneurship course.
-  links:
-    - Program Details: https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php
+  description: Social-impact business pitch as part of a semester-long entrepreneurship course. [More Info](https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0)
 
 - name: Java Data Structures
-  description: Implemented linked lists, heaps, trees, and hash tables from scratch in Java.
-  links:
-    - Source Code: /assets/code/DatastructuresImplementation
+  description: Implemented linked lists, heaps, trees, and hash tables from scratch in Java. [Code Samples](/assets/code/DatastructuresImplementation)
 
 - name: Memory Allocation Simulator
-  description: Simulated RAM allocation strategies (first-fit, next-fit, best-fit) in C to analyze memory usage.
-  links:
-    - GitHub: https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c
+  description: Simulates RAM allocation strategies (best, next, first fit) in C. [Source Code](https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c)
