@@ -1,26 +1,26 @@
-- name: Software Engineering Capstone
-  description: Applications of Agile software engineering principles.
+- name: Machine Learning
+  description: Techniques for extracting patterns and insights from large datasets, including classification, clustering, and association analysis.
 
 - name: Database Concepts
-  description: Relational database design, SQL, normalization, transactions.
+  description: Design and management of relational databases; includes SQL, normalization, and transaction processing.
+
+- name: Advanced Algorithms
+  description: Analysis and implementation of trees, heaps, hashing, and graph algorithms for efficient data processing.
 
 - name: Operating Systems
-  description: Process management, memory management, and system calls in UNIX.
-
-- name: Computer and Network Security
-  description: Fundamentals of security protocols, cryptography, and network defense.
-
-- name: Server-Side Web Programming
-  description: Backend development using PHP, MySQL, sessions, and form handling.
-
-- name: Data Mining
-  description: Techniques for extracting meaningful patterns from large datasets.
+  description: Concepts in memory management, scheduling, process coordination, and system calls in Unix-like environments.
 
 - name: Programming Language Concepts
-  description: Syntax, semantics, and interpreters for a variety of programming paradigms.
+  description: Exploration of syntax, semantics, and language paradigms; included implementation of interpreters.
+
+- name: Software Engineering Capstone
+  description: Applied Agile practices in a collaborative team to design and deliver a full-stack software product.
+
+- name: Server-Side Web Programming
+  description: Web application development using PHP, session management, form handling, and database integration.
+
+- name: Computer and Network Security
+  description: Introduction to cryptography, secure communication protocols, and threat mitigation.
 
 - name: Digital Logic & Computer Organization
-  description: Binary logic, state machines, CPU architecture, and memory systems.
-
-- name: Data Structures and Advanced Algorithms
-  description: Trees, heaps, hashing, algorithm analysis, and design strategies.
+  description: Fundamental understanding of CPU architecture, binary logic, state machines, and memory hierarchies.
