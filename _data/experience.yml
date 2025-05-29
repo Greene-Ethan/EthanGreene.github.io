@@ -1,4 +1,11 @@
-- role: Test Position
-  dates: 2023 - 2024
-  description:
-    - This is a test job description item.
+- layout: top
+  company: Querri (Remote)
+  job_title: Language Model Fine-Tuning Intern
+  dates: January 2025 - April 2025
+  description: >
+    - Fine-tuned a small language model to recognize and label variables in Python source code.
+    - Designed and implemented supervised learning pipelines using Hugging Face’s Trainer and Transformers.
+    - Developed preprocessing and postprocessing logic to optimize code parsing and variable recognition.
+    - Evaluated model performance with validation metrics, error analysis, and testing datasets.
+    - Rotated Scrum Master responsibilities: led stand-ups, sprint reviews, and retrospectives.
+    - Collaborated with a team to integrate model outputs into production-grade analytics systems.
