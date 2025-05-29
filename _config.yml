@@ -1,14 +1,9 @@
-# Site
-repository: sproogen/modern-resume-theme
-
-# Data type version
-version: 2
-
-# Personal info (fill as needed)
+# Personal info
 name: Ethan Greene
 title: Data Scientist & Software Engineer
 email: greeneed@g.cofc.edu
 phone: (843) 460 - 3511
+website: https://ethangreene.github.io
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -27,6 +22,123 @@ about_content: >
   - **Web Development:** PHP, MySQL, Session Management, Form Handling  
   - **Tools:** Hugging Face Transformers, Selenium, Pandas  
   - **Methodologies:** Agile, Scrum
+
+# Content Sections
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        border: weak
+        title: Querri
+        link: https://querri.com
+        sub_title: Language Model Fine-Tuning Intern
+        caption: January 2025 - April 2025
+        description: >
+          - Fine-tuned a small language model to recognize and label variables in Python source code.
+          - Designed and implemented supervised learning pipelines using Hugging Face’s Trainer and Transformers.
+          - Developed preprocessing and postprocessing logic to optimize code parsing and variable recognition.
+          - Evaluated model performance with validation metrics, error analysis, and testing datasets.
+          - Rotated Scrum Master responsibilities: led stand-ups, sprint reviews, and retrospectives.
+          - Collaborated with a team to integrate model outputs into production-grade analytics systems.
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: Dukedom Web App
+        link: https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject
+        additional_links:
+          - title: Video Demo
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=3ox0X4IIbkM
+          - title: Code Repository
+            icon: fab fa-github
+            url: https://github.com/Greene-Ethan/EthanGreene.github.io/tree/main/assets/code/DukedomFinalProject
+        description: >
+          Built backend of a dynamic website using PHP and MySQL with session-based login, form handling, and user authentication.
+
+      - layout: top-middle
+        border: weak
+        title: Machine Learning Recommender System
+        link: assets/img/TripRecc.pdf
+        description: >
+          Conducted exploratory data analysis and implemented PCA and KNN to create a food recommendation system.
+
+      - layout: top-middle
+        border: weak
+        title: Impact X Startup Project
+        link: https://charleston.edu/school-business/centers-initiatives/center-entrepreneurship/impactx.php#accordion-22dd17d9-3365-41af-a6aa-a5bdb6e4a743-0
+        description: >
+          Collaborated in a team to develop a social impact startup; led product development and pitched to angel investors.
+
+      - layout: top-middle
+        border: weak
+        title: Foundational Java Data Structures Implementation
+        additional_links:
+          - title: Linked List Code
+            icon: fab fa-github
+            url: assets/code/DatastructuresImplementation/LinkedListADT.java
+          - title: Array List Code
+            icon: fab fa-github
+            url: assets/code/DatastructuresImplementation/ArrayListADT.java
+          - title: Binary Search Tree Code
+            icon: fab fa-github
+            url: assets/code/DatastructuresImplementation/BST.java
+          - title: Min Heap Code
+            icon: fab fa-github
+            url: assets/code/DatastructuresImplementation/MinHeap.java
+          - title: Hash Table Code
+            icon: fab fa-github
+            url: assets/code/DatastructuresImplementation/HashTable.java
+        description: >
+          Implemented core data structures in Java from scratch to deepen understanding of algorithms and memory management.
+
+      - layout: top-middle
+        border: weak
+        title: Memory Simulator
+        link: https://github.com/Greene-Ethan/EthanGreene.github.io/blob/main/assets/code/MemorySimulator/mem.c
+        description: >
+          Created simulations of RAM memory allocation in C demonstrating best fit, next fit, and first fit strategies.
+
+  - title: Education
+    layout: list
+    content:
+      - title: College of Charleston
+        border: weak
+        sub_title: 2019 - 2023
+        caption: Bachelor of Science in Computer Science
+        description: >
+          Major GPA: 3.8. Relevant coursework includes Software Engineering Capstone, Database Concepts, Operating Systems, Computer and Network Security, Server-Side Web Programming, Data Mining, Programming Language Concepts, Digital Logic & Computer Organization, Data Structures, and Advanced Algorithms.
+
+  - title: Academic Presentations
+    layout: list
+    content:
+      - title: AI's Black-box Problem
+        link: assets/img/AIsBlack-boxproblem.pdf
+        description: >
+          Presentation on the dangers of AI integration.
+
+      - title: Website Software Requirement Specification Document
+        link: assets/img/SoftwareRequirementSpecificationDocument.pdf
+        description: >
+          Document outlining the requirements for the Dukedom website.
+
+      - title: Website Software Requirement Specification Presentation
+        link: assets/img/DukedomSRSPresentation.pdf
+        description: >
+          Presentation of the SRS document for the Dukedom website.
+
+      - title: Usecases of Eigenvalues and Stochastic Matrices
+        link: assets/img/Math203FinalPaper.pdf
+        description: >
+          Report discussing use cases of eigenvalues and stochastic matrices.
+
+      - title: Web Security
+        link: assets/img/WebSecurity.pdf
+        description: >
+          Presentation on web security fundamentals and best practices.
 
 # Footer
 footer_show_references: true
