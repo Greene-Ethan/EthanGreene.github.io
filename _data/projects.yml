@@ -13,7 +13,7 @@
     Used PCA and KNN algorithms to make food-based recommendations based on user preferences.
 
     Related work:
-    - [Project Overview (PDF)](/assets/img/TripRecc.pdf)
+    - [Project Overview (PDF)](assets/img/TripRecc.pdf)
 
 - layout: top
   name: Impact X Startup
@@ -32,8 +32,8 @@
 
     Related work:
     - [Linked List Code](assets/code/DatastructuresImplementation/LinkedListADT.java)
-    - [Array List Code](/assets/code/DatastructuresImplementation/ArrayListADT.java)
-    - [Binary Search Tree Code](/assets/code/DatastructuresImplementation/BST.java)
+    - [Array List Code](assets/code/DatastructuresImplementation/ArrayListADT.java)
+    - [Binary Search Tree Code](assets/code/DatastructuresImplementation/BST.java)
     - [Min Heap Code](assets/code/DatastructuresImplementation/MinHeap.java)
     - [Hash Table Code](assets/code/DatastructuresImplementation/HashTable.java)
 
