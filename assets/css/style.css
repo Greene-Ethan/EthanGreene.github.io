@@ -1,53 +1,25 @@
-/* Make the site more responsive */
+/* override.css */
+
 body {
   font-size: 1rem;
   line-height: 1.6;
-  padding: 1rem;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-}
-
-/* Limit content width on large screens, full width on small screens */
-.wrapper {
-  max-width: 800px;
+  max-width: 90%;
   margin: 0 auto;
   padding: 1rem;
-  width: 90%;
-  box-sizing: border-box;
 }
 
-/* Make the profile image responsive */
-img {
-  max-width: 100%;
+/* Make logo/profile image responsive */
+img[alt="Logo"] {
+  max-width: 150px;
   height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-/* Center and clean up the logo/text */
-header {
-  text-align: center;
-  margin-bottom: 1.5rem;
-}
-
-header img {
-  width: 150px;
   border-radius: 50%;
+  display: block;
+  margin: 1rem auto;
 }
 
-/* Improve text scaling */
-h1, h2, h3, h4 {
-  font-weight: 600;
-  margin-top: 1.5rem;
-}
-
-/* Mobile tweak */
-@media (max-width: 600px) {
-  body {
-    font-size: 0.95rem;
-  }
-
-  header img {
-    width: 120px;
-  }
+/* Center-align your intro text under the image */
+header + p {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-top: 1rem;
 }
