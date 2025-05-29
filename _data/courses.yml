@@ -1,0 +1,26 @@
+- name: Software Engineering Capstone
+  description: Applications of Agile software engineering principles.
+
+- name: Database Concepts
+  description: Relational database design, SQL, normalization, transactions.
+
+- name: Operating Systems
+  description: Process management, memory management, and system calls in UNIX.
+
+- name: Computer and Network Security
+  description: Fundamentals of security protocols, cryptography, and network defense.
+
+- name: Server-Side Web Programming
+  description: Backend development using PHP, MySQL, sessions, and form handling.
+
+- name: Data Mining
+  description: Techniques for extracting meaningful patterns from large datasets.
+
+- name: Programming Language Concepts
+  description: Syntax, semantics, and interpreters for a variety of programming paradigms.
+
+- name: Digital Logic & Computer Organization
+  description: Binary logic, state machines, CPU architecture, and memory systems.
+
+- name: Data Structures and Advanced Algorithms
+  description: Trees, heaps, hashing, algorithm analysis, and design strategies.
